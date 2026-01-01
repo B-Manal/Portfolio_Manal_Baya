@@ -3,8 +3,7 @@
 This is my personal portfolio website showcasing my academic projects in computer engineering.  
 The site features smooth animations, modal project pop-ups, and a minimalist aesthetic for a clear and engaging presentation.
 
-**Optimized for laptop and desktop screens** (recommended view).  
-A mobile-responsive version will be introduced in the future.
+**Optimized for laptop and desktop screens** 
 
 ---
 
@@ -44,7 +43,7 @@ A mobile-responsive version will be introduced in the future.
 This portfolio is hosted via **GitHub Pages**.
 
 🔗 **Live Site:**  
-[https://banalya.github.io/Portfolio_Manal_Baya/](https://banalya.github.io/Portfolio_Manal_Baya/)
+[https://b-manal.github.io/Portfolio_Manal_Baya/](https://b-manal.github.io/Portfolio_Manal_Baya/)
 
 ---
 
@@ -52,4 +51,4 @@ This portfolio is hosted via **GitHub Pages**.
 **Manal Baya**  
 Final-year Computer Engineering Student – University of Ottawa  
 
-© 2025 **Manal Baya**. All rights reserved.
+© 2026 **Manal Baya**. All rights reserved.
